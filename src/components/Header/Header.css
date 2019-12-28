@@ -1,0 +1,35 @@
+.appHeader {
+
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.nav-header {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 25px;
+
+}
+
+.Header-Logo {
+  margin: 20px 25px;
+  display: inline-block;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+}
+
+
+
+@media screen and (min-width: 450px) {
+ 
+
+  .appHeader h1 {
+    font-size: 22pt;
+  }
+}
+
