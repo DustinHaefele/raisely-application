@@ -19,7 +19,7 @@ class Header extends React.Component {
     return (
       <>
       <header className="appHeader" role="banner">
-        <h1 className="Header-Logo">Raisely Application</h1>
+        <h1 className="headerLogo">Raisely Application: Dustin Haefele</h1>
         <FontAwesomeIcon icon="bars" className='nav-header' onClick={()=>this.toggleNav()}/>
       </header>
       {this.state.navOpen && <nav className="nav-drop nav">

@@ -8,6 +8,33 @@
   pointer-events: none;
 }
 
+.section {
+  display: flex;
+  margin: 50px 0;
+}
+
+.answer {
+  width: 70ch;
+  margin: 30px auto;
+}
+
+._40 {
+  width: 40%;
+  padding: 15px;
+}
+
+._60 {
+  width: 60%;
+  padding: 15px;
+}
+
+.row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: center;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
