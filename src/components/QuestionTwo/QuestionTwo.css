@@ -1,4 +1,8 @@
 .flag {
   border: 1px solid black;
-  
+  margin: 3px;
+}
+
+.flagDisplay {
+  margin-top: 40px;
 }

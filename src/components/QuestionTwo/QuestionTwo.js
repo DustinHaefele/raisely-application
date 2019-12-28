@@ -6,7 +6,7 @@ export default function QuestionOne() {
   return (
     <section id="question-2" className="section">
       
-      <div className="_60">
+      <div className="_50">
         <p className="answer">
           For the last few weeks, my wife and I have been traveling around
           Chile. We decided that as I looked for new work we would take the
@@ -33,13 +33,13 @@ export default function QuestionOne() {
           for Raisely over anywhere else.
         </p>
       </div>
-      <div className="_40">
+      <div className="_50">
         <div className="row">
           <h2 className="section-title">
             Why do you want to work here over somewhere else?
           </h2>
         </div>
-        <div className="row">
+        <div className="row flagDisplay">
           <img className='flag'  src={Chile} alt='chilean flag'/>
         </div>
       </div>

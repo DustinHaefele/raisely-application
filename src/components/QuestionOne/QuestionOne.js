@@ -10,13 +10,13 @@ import { ReactComponent as JSLogo } from '../../img/js.svg';
 export default function QuestionOne() {
   return (
     <section id="question-1" className="section">
-      <div className="_40">
+      <div className="_50">
         <div className="row">
           <h2 className="section-title">
             Why would I be a good fit for the Campaign Developer role?
           </h2>
         </div>
-        <div className="row">
+        <div className="row logoDisplay">
           <HTMLLogo className="logo" />
           <CSSLogo className="logo" />
           <JSLogo className="logo" />
@@ -26,7 +26,7 @@ export default function QuestionOne() {
         </div>
 
       </div>
-      <div className="_60">
+      <div className="_50">
         <p className="answer">
           I’m a Full-Stack Developer and I’m dedicated to making a difference in
           the world. Most of my experience is in HTML, CSS, and JavaScript

@@ -3,12 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faBars } from '@fortawesome/free-solid-svg-icons';
+import { faBars, faGrin, faGraduationCap, faMeh } from '@fortawesome/free-solid-svg-icons';
 import { BrowserRouter } from 'react-router-dom'
 import * as serviceWorker from './serviceWorker';
 
 library.add (
   faBars,
+  faGrin,
+  faGraduationCap,
+  faMeh,
 )
 
 ReactDOM.render(<BrowserRouter><App /></BrowserRouter>, document.getElementById('root'));
