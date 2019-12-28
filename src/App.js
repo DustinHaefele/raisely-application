@@ -16,6 +16,7 @@ function App() {
       <QuestionTwo />
       <QuestionThree />
       <QuestionFour />
+      <footer>Built by Dustin Haefele because I want to make a positive impact in the world in my career.</footer>
     </div>
   );
 }

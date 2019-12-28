@@ -65,7 +65,7 @@ export default function QuestionOne() {
             <li>
             <h4> Project managing the set-up of a new large campaign on Raisely,
               keeping it on time and budget{' '}</h4>
-            <p>Project managing in a task I am very comfortable with. Before I switched Careers to web development I managed projects ranging from $5000 to $1.2 million budgets. I consider myself very experienced in managing projects. That being said I would really like to get a much better understanding of Raisely, the code base, and the resources available before I would like to do this task. That is why I chose this task as one that I wouldn’t want to do.</p>
+            <p>Project managing is a task I am very comfortable with. Before I switched careers to web development I managed projects ranging from $5000 to $1.2 million budgets. I consider myself very experienced in managing projects. That being said I would really like to get a much better understanding of Raisely, the code base, and the resources available before I would like to do this task. That is why I chose this task as one that I wouldn’t want to do.</p>
              
             </li>
           </ul>
